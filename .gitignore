@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!Data
+!Data/*
+
+!sample_subset.ipynb
+!opis_problema.md
